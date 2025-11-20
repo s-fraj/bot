@@ -1,0 +1,6 @@
+manifoldpy
+requests
+numpy
+pydantic
+loguru
+tqdm
